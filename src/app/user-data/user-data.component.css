@@ -1,0 +1,18 @@
+.spacing{
+    text-align: center;
+    padding: 20px;
+}
+
+.card-columns{
+    padding-top: 30px;
+}
+
+.d-flex{
+    align-content: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* .cards2{
+    height: 400px;
+} */
